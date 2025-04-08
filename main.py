@@ -153,7 +153,7 @@ def create_instagram_post():
             logo_y = text_bg_y0 - max_logo_size/2
             image.paste(circular_logo, (int(logo_x), int(logo_y)), circular_logo)
 
-        # Save final image
+        # Save the generated post
         output_path = os.path.join("generated_posts", f"post{count + 1}.png")
         image.save(output_path)
     

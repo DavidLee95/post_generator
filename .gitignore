@@ -1,4 +1,4 @@
 .venv
-logo.png
+images/logo.png
 /generated_posts/*
 !/generated_posts/
