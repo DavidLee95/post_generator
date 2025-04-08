@@ -2,8 +2,6 @@
 
 **Post Generator** is a Python program that helps you instantly create beautiful Instagram posts based on a phrase, logo, and handle provided by the user. Whether you're running a personal brand or a business account, this tool can help you create aesthetic, shareable content in seconds.
 
-![Types of generated posts](images/results.webp)
-
 ## 📌 Features
 
 - Accepts custom phrases to be displayed on Instagram posts.
