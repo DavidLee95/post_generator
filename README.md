@@ -15,8 +15,8 @@
 ## ⚙️ Installation
 
 1. **Clone the repository**  
-   ```bash
-   https://github.com/DavidLee95/post_generator.git
+   ```
+   git clone https://github.com/DavidLee95/post_generator.git
    ```
 
 2. **Install dependencies** 
